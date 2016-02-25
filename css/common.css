@@ -1,0 +1,105 @@
+body {
+ background-color: #aaa;
+ margin-top:  0px;
+}
+
+.container{
+	background-color: #fff; 
+	width: 1000px;
+	height:auto;		
+}
+
+.ciudad{
+	width: 1000px;
+	height: 400px;	
+}
+
+.fondo h2{
+	color: #fff;
+	text-align: center;
+	position: absolute;
+}
+
+.centro{
+	width: 500px;
+
+}
+
+.parrafo{
+	text-align: center;
+	color: #777;
+
+}
+.trio{
+	width: 1000px;
+	height: 500px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+
+.blanco{
+	width: 250px;
+	height: 500px;
+	display: inline-block;
+}
+
+.negro{
+	color: #fff;
+	background-color: #000;
+}
+
+.azul{
+	color: #fff;
+	background-color: #33ffcc;
+}
+
+.precio{
+	background: #bbb;
+}
+
+
+.puntos p{
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	border-bottom: 1px solid;
+}
+
+span{
+	color: red;
+	border: 1px solid;
+}
+
+.circulo{
+	border-radius: 500px;
+	height: 100px;	
+}
+
+.crl{
+	text-align: center;
+	color: #555;
+}
+
+.pluma{
+	width:1000px;
+	height: 325px;	
+}
+
+.follow{
+	text-align: center;
+	color: #555;
+}
+
+.footer{
+	color: #fff; 
+	height: 100px;
+	background-color: #222222;
+	text-align: center;
+	padding-top: 50px;
+	margin-top: 200px;
+}
+
+.lorem{
+	margin-top: 500px;
+}
